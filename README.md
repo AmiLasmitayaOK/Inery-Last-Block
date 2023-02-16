@@ -34,7 +34,7 @@ tail -f blockchain/nodine.log
 ______________
 
 
-Check berhasil kagaknya setelah 3-5 jam :
+Check berhasil kagaknya setelah 3-5 menit :
 
 ```
 cd 
