@@ -14,6 +14,7 @@ cd $HOME/inery-node/inery.setup/master.node/
 ./clean.sh
 ```
 ```
+cd
 mv $HOME/blockchain $HOME/inery-node/inery.setup/master.node/blockchain
 rm -rf $HOME/blockchain.zip
 ```
