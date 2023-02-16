@@ -19,7 +19,9 @@ cp -r $HOME/blockchain $HOME/inery-node/inery.setup/master.node/blockchain
 cd $HOME/inery-node/inery.setup/master.node/
 ./start.sh
 ```
+```
 
+```
 Check hasilnya setelah 10an menit :
 ```
 cd 
