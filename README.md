@@ -1,4 +1,3 @@
-
 # How to
 ```
 sudo apt update && sudo apt upgrade -y && sudo apt install zip unzip
@@ -56,3 +55,4 @@ cd
 rm -rf blockchain.zip
 rm -rf blockchain
 ```
+
