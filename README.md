@@ -11,7 +11,7 @@ unzip blockchain.zip
 ```
 cd $HOME/inery-node/inery.setup/master.node/
 ./stop.sh
-./clean.sh
+rm -rf blockchain
 ```
 ```
 cd
