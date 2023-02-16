@@ -17,6 +17,7 @@ cd $HOME/inery-node/inery.setup/master.node/
 cd
 mv $HOME/blockchain $HOME/inery-node/inery.setup/master.node/blockchain
 rm -rf $HOME/blockchain.zip
+source ~/.bashrc && which nodine || source ~/.bash_profile
 ```
 ```
 cd $HOME/inery-node/inery.setup/master.node/
