@@ -21,7 +21,6 @@ source ~/.bashrc && which nodine || source ~/.bash_profile
 ```
 ```
 cd $HOME/inery-node/inery.setup/master.node/
-./hard_replay.sh
 ./start.sh
 ```
 
