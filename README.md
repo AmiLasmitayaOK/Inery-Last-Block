@@ -14,16 +14,13 @@ cd $HOME/inery-node/inery.setup/master.node/
 ./clean.sh
 ```
 ```
-cp -r $HOME/blockchain $HOME/inery-node/inery.setup/master.node/blockchain
+mv $HOME/blockchain $HOME/inery-node/inery.setup/master.node/blockchain
+rm -rf $HOME/blockchain.zip
 ```
 ```
 cd $HOME/inery-node/inery.setup/master.node/
 ./start.sh
 ```
-```
-cd
-rm -rf blockchain
-rm -rf blockchain.zip
 ```
 Check hasilnya setelah 10-30 an menit :
 ```
