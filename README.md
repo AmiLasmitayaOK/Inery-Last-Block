@@ -29,3 +29,9 @@ Check hasilnya setelah 10-30 an menit :
 cd 
 curl -sSL -X POST 'http://localhost:8888/v1/chain/get_info' -H 'Accept: application/json' | jq
 ```
+
+#### Check Log
+```
+cd $HOME/inery-node/inery.setup/master.node/
+tail -f blockchain/nodine.log
+```
