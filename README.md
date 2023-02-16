@@ -20,6 +20,7 @@ rm -rf $HOME/blockchain.zip
 ```
 ```
 cd $HOME/inery-node/inery.setup/master.node/
+./hard_replay.sh
 ./start.sh
 ```
 
