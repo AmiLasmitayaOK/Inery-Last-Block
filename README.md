@@ -3,7 +3,7 @@
 sudo apt update && sudo apt upgrade -y && sudo apt install zip unzip
 ```
 ```
-wget --load-cookies /tmp/cookies.txt "https://drive.google.com/uc?export=download&confirm=$(wget --quiet --save-cookies /tmp/cookies.txt --keep-session-cookies --no-check-certificate 'https://drive.google.com/uc?export=download&id=1AGBXmQaqOj99MlDt_Gj9v-gazes15aMi' -O- | sed -rn 's/.*confirm=([0-9A-Za-z_]+).*/\1\n/p')&id=1AGBXmQaqOj99MlDt_Gj9v-gazes15aMi" -O blockchain.zip && rm -rf /tmp/cookies.txt
+wget --load-cookies /tmp/cookies.txt "https://drive.google.com/uc?export=download&confirm=$(wget --quiet --save-cookies /tmp/cookies.txt --keep-session-cookies --no-check-certificate 'https://drive.google.com/uc?export=download&id=1-fx70-ZCed1YRnsVI7e0jK6ldFFdL9_e' -O- | sed -rn 's/.*confirm=([0-9A-Za-z_]+).*/\1\n/p')&id=1-fx70-ZCed1YRnsVI7e0jK6ldFFdL9_e" -O blockchain.zip && rm -rf /tmp/cookies.txt
 ```
 ```
 unzip blockchain.zip
